@@ -1,0 +1,86 @@
+# 사이트 기본 정보
+title: "옵비로그"
+title_separator: "|"
+subtitle: "로블록스 트렌드·밈·공략 한눈에"
+description: "요즘 뜨는 로블록스 게임, 밈, 업데이트 소식을 쉽게 정리해요. 실제로 로블록스를 하는 초등학생 아들과 개발자 아빠가 함께 만드는 블로그."
+url: "https://obbylog.github.io"
+baseurl: ""
+locale: "ko-KR"
+timezone: Asia/Seoul
+repository: "obbylog/obbylog.github.io"
+
+# 테마
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "mint"
+
+# 검색엔진/공유
+og_image: # /assets/images/og-default.png (추후 추가)
+google_site_verification: # 서치콘솔 등록 후 입력
+naver_site_verification:  # 네이버 서치어드바이저 등록 후 입력
+social:
+  type: Organization
+  name: "옵비로그"
+
+# 검색
+search: true
+search_full_content: false
+
+# 마크다운
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# 페이지네이션
+paginate: 10
+paginate_path: /page:num/
+
+# 플러그인 (모두 GitHub Pages 기본 지원)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-seo-tag
+
+# 아카이브
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# 글 기본값
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: true
+      related: true
+      show_date: true
+      toc: true
+      toc_sticky: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+include:
+  - _pages
+
+exclude:
+  - automation/
+  - drafts/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE.md
+  - vendor/
