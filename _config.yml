@@ -17,7 +17,7 @@ minimal_mistakes_skin: "mint"
 # 검색엔진/공유
 og_image: /assets/images/og-default.png
 google_site_verification: # 서치콘솔 등록 후 입력
-naver_site_verification:  # 네이버 서치어드바이저 등록 후 입력
+naver_site_verification: "fd94c97dd9d3e1e4b6358c36c25598dc8afe443e"
 social:
   type: Organization
   name: "옵비로그"
