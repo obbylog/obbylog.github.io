@@ -2,6 +2,8 @@
 title: "스틸 언 에그(Steal An Egg) 초보 공략: 처음 하면 이것부터 해"
 description: "로블록스 동접 1위 스틸 언 에그. 알 훔쳐서 펫 키우고 돈 버는 게임이야. 처음 하는 사람이 알아야 할 순서랑 꿀팁 정리함."
 categories: [game]
+redirect_from:
+  - /game/2026/11/06/steal-an-egg-beginner-guide.html
 tags: [스틸언에그, Steal An Egg, 로블록스 공략, 로블록스 인기게임, 펫 게임]
 header:
   teaser: "https://tr.rbxcdn.com/180DAY-875b2a6dc156ce6dd64eb637e73238ce/768/432/Image/Png/noFilter"
