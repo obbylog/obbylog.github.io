@@ -65,9 +65,6 @@ tags: [스틸언에그, Steal An Egg, 로블록스 공략, 로블록스 인기�
 - 게임은 로블록스 앱 안에서 직접 검색해서 들어가세요. 외부 사이트 링크로 들어가지 않는 게 안전해요.
 - "무료 로벅스", "희귀 펫 공짜로 줄게"라는 말은 대부분 계정을 노리는 사기예요. 비밀번호는 절대 알려주면 안 돼요.
 
-## 아들 한마디
-> TODO: 아들 코멘트
-
 ## 참고한 곳
 - [Most played Roblox games right now - EndGameTools](https://endgametools.com/en/roblox/charts)
 - [Steal an Egg Beginner Guide - TechWiser](https://techwiser.com/steal-an-egg-beginner-guide/)
