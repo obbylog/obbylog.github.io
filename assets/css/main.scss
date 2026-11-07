@@ -1,0 +1,63 @@
+---
+# 테마 기본 스타일 + 옵비로그 커스텀
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* 본문 표: 글 너비에 맞추고 읽기 쉽게 */
+.page__content table {
+  display: table;
+  width: 100%;
+  margin: 1.5em 0;
+  font-size: 0.9em;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid mix(#fff, $primary-color, 75%);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  word-break: keep-all;
+}
+
+.page__content thead {
+  background: mix(#fff, $primary-color, 82%);
+  border-bottom: none;
+}
+
+.page__content th {
+  padding: 0.8em 1em;
+  color: $text-color;
+  font-weight: 700;
+  text-align: left;
+  border-bottom: 2px solid mix(#fff, $primary-color, 55%);
+}
+
+.page__content td {
+  padding: 0.75em 1em;
+  border-bottom: 1px solid mix(#fff, $primary-color, 88%);
+  vertical-align: top;
+}
+
+.page__content tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.page__content tbody tr:nth-child(even) {
+  background: mix(#fff, $primary-color, 95%);
+}
+
+.page__content td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .page__content table { font-size: 0.85em; }
+  .page__content th,
+  .page__content td { padding: 0.6em 0.7em; }
+  .page__content td:first-child { white-space: normal; }
+}
