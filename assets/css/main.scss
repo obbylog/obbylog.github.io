@@ -52,12 +52,20 @@ search: false
 
 .page__content td:first-child {
   font-weight: 600;
+}
+
+/* 첫 열은 내용 길이만큼만 쓰고 나머지는 두 번째 열에 */
+.page__content th:first-child,
+.page__content td:first-child {
+  width: 1%;
   white-space: nowrap;
+  padding-right: 2em;
 }
 
 @media (max-width: 600px) {
   .page__content table { font-size: 0.85em; }
   .page__content th,
   .page__content td { padding: 0.6em 0.7em; }
-  .page__content td:first-child { white-space: normal; }
+  .page__content th:first-child,
+  .page__content td:first-child { width: auto; white-space: normal; padding-right: 0.7em; }
 }
