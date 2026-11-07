@@ -110,6 +110,3 @@ header:
 - [Throw Food For Animals Wiki - Bloxodes](https://bloxodes.com/wiki/throw-food-for-animals)
 - [Throw Food For Animals Animals - game.guide](https://www.game.guide/throw-food-for-animals/animals)
 - [Roblox Top Playing Now 차트 - Endgame Tools](https://endgametools.com/en/roblox/charts)
-
-## 아들 한마디
-> TODO: 아들 코멘트
