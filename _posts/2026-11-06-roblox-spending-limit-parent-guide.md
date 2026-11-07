@@ -99,6 +99,3 @@ A. 공식 안내에서 확인하지 못했어요. 자녀 계정에서 바꿀 수
 - [자녀 보호 기능 안내 - 로블록스 공식 (한국어)](https://about.roblox.com/ko/parental-controls)
 - [Parents: Monthly Spending Limits - 로블록스 고객센터](https://en.help.roblox.com/hc/articles/4409558125460)
 - [Spend Notifications Controls FAQ - 로블록스 고객센터](https://en.help.roblox.com/hc/pl/articles/4409296123796-Spend-Notifications-Controls-FAQ)
-
-## 아들 한마디
-> TODO: 아들 코멘트
