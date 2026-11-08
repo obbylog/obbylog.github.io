@@ -1,0 +1,23 @@
+# 예약 발행: 날짜가 미래인 글은 빌드할 때 빠져요.
+# 매일 아침 사이트를 다시 빌드해서, 발행 시간이 지난 글이 나타나게 해요.
+# GitHub의 예약 실행은 몇 분~수십 분 늦어질 수 있어요.
+name: scheduled-publish
+
+on:
+  schedule:
+    - cron: "5 23 * * *"   # 매일 한국 시간 08:05
+  workflow_dispatch:
+
+permissions:
+  pages: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request GitHub Pages build
+        run: |
+          curl -fsS -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds"
