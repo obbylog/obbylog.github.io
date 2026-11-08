@@ -73,9 +73,6 @@ tags: [로블록스 부모 가이드, 로블록스 채팅 설정, 로블록스 �
 
 어떤 설정도 아이가 "이상한 일이 생기면 엄마 아빠한테 말한다"는 습관을 대신하지는 못해요. 아이가 좋아하는 게임을 한 판 같이 해보고, 그 게임에서 누가 말을 걸면 어떻게 할지 이야기해보세요. 비밀번호는 친구에게도, 운영자라고 하는 사람에게도 알려주지 않는다는 것 하나만 확실히 해둬도 대부분의 사기는 막을 수 있어요.
 
-## 아들 한마디
-> TODO: 아들 코멘트
-
 ## 참고한 곳
 - [자녀 보호 기능 안내 - 로블록스 공식 (한국어)](https://about.roblox.com/ko/parental-controls)
 - [Roblox Requires Age Checks to Chat - 로블록스 뉴스룸 (2026년 1월)](https://about.roblox.com/newsroom/2026/01/roblox-age-checks-required-to-chat)
