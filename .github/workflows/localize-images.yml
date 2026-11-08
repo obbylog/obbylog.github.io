@@ -6,7 +6,6 @@ name: localize-images
 on:
   push:
     branches-ignore: [main]
-    paths: ["_posts/**"]
   workflow_dispatch:
 
 permissions:
