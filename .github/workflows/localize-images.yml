@@ -17,6 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install Pillow
+        run: python3 -m pip install --quiet pillow
+
       - name: Download thumbnails and rewrite links
         run: |
           set -euo pipefail
@@ -30,7 +33,7 @@ jobs:
               out="assets/images/posts/$slug/$hash.jpg"
               if [ ! -f "$out" ]; then
                 curl -fsSL --retry 3 -o /tmp/img.png "$url"
-                convert /tmp/img.png -strip -quality 85 "$out"
+                python3 -c "import sys; from PIL import Image; Image.open(sys.argv[1]).convert('RGB').save(sys.argv[2], quality=85, optimize=True)" /tmp/img.png "$out"
               fi
               sed -i "s#$url#/$out#g" "$post"
             done
