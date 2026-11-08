@@ -1,0 +1,52 @@
+# 글에 들어간 로블록스 썸네일(tr.rbxcdn.com)을 저장소로 받아와서 주소를 바꿔요.
+# 썸네일 주소는 180일쯤 지나면 만료되기 때문이에요.
+# main이 아닌 브랜치에 push하면 자동으로 돌아가고, 바뀐 게 있으면 같은 브랜치에 커밋해요.
+name: localize-images
+
+on:
+  push:
+    branches-ignore: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  localize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: python3 -m pip install --quiet pillow
+
+      - name: Download thumbnails and rewrite links
+        run: |
+          set -euo pipefail
+          for post in _posts/*.md; do
+            slug=$(basename "$post" .md | cut -d- -f4-)
+            urls=$(grep -oE 'https://tr\.rbxcdn\.com/180DAY-[0-9a-f]+/[0-9]+/[0-9]+/Image/Png/noFilter' "$post" | sort -u || true)
+            [ -z "$urls" ] && continue
+            mkdir -p "assets/images/posts/$slug"
+            for url in $urls; do
+              hash=$(echo "$url" | sed -E 's#.*/180DAY-([0-9a-f]+)/.*#\1#' | cut -c1-12)
+              out="assets/images/posts/$slug/$hash.jpg"
+              if [ ! -f "$out" ]; then
+                curl -fsSL --retry 3 -o /tmp/img.png "$url"
+                python3 -c "import sys; from PIL import Image; Image.open(sys.argv[1]).convert('RGB').save(sys.argv[2], quality=85, optimize=True)" /tmp/img.png "$out"
+              fi
+              sed -i "s#$url#/$out#g" "$post"
+            done
+          done
+
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "썸네일을 저장소 이미지로 교체"
+            git push
+          else
+            echo "바꿀 이미지 없음"
+          fi
