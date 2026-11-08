@@ -6,12 +6,12 @@ redirect_from:
   - /game/2026/11/06/steal-an-egg-beginner-guide.html
 tags: [스틸언에그, Steal An Egg, 로블록스 공략, 로블록스 인기게임, 펫 게임]
 header:
-  teaser: "https://tr.rbxcdn.com/180DAY-875b2a6dc156ce6dd64eb637e73238ce/768/432/Image/Png/noFilter"
+  teaser: "/assets/images/posts/steal-an-egg-beginner-guide/875b2a6dc156.jpg"
 ---
 
 **스틸 언 에그**(Steal An Egg)는 동물들이 지키는 알을 몰래 훔쳐서 펫으로 키우고, 그 펫으로 돈 버는 로블록스 게임이야. 11월 6일 기준 동시접속자가 130만 명이 넘어서 지금 로블록스에서 제일 많이 하는 게임임.
 
-![스틸 언 에그 공식 썸네일](https://tr.rbxcdn.com/180DAY-875b2a6dc156ce6dd64eb637e73238ce/768/432/Image/Png/noFilter)
+![스틸 언 에그 공식 썸네일](/assets/images/posts/steal-an-egg-beginner-guide/875b2a6dc156.jpg)
 *이미지: 로블록스 'Steal An Egg' 공식 썸네일*
 
 처음 들어가면 뭐부터 해야 할지 좀 헷갈리거든. 이 순서대로만 하면 금방 감 잡을 수 있어.
@@ -30,7 +30,7 @@ header:
 
 ## 처음엔 숲에서 시작해
 
-![알을 들고 뱀에게서 도망치는 장면](https://tr.rbxcdn.com/180DAY-79e666901b2c722b06310d267bc6c152/768/432/Image/Png/noFilter)
+![알을 들고 뱀에게서 도망치는 장면](/assets/images/posts/steal-an-egg-beginner-guide/79e666901b2c.jpg)
 *이미지: 로블록스 'Steal An Egg' 공식 썸네일*
 
 멀리 있는 알일수록 좋은 펫이 나오는데, 지키는 동물도 훨씬 빨라. 처음엔 가까운 **숲**(Forest) 구역에서 시작하는 게 맞아.
@@ -41,7 +41,7 @@ header:
 
 ## 제일 중요한 건 속도
 
-![눈 덮인 구역에서 예티의 알을 훔쳐 달아나는 장면](https://tr.rbxcdn.com/180DAY-3a7682bf777c8b5a9ee044f2ff932ae6/768/432/Image/Png/noFilter)
+![눈 덮인 구역에서 예티의 알을 훔쳐 달아나는 장면](/assets/images/posts/steal-an-egg-beginner-guide/3a7682bf777c.jpg)
 *이미지: 로블록스 'Steal An Egg' 공식 썸네일*
 
 이 게임은 **속도가 곧 실력**이야. 빨라야 먼 구역까지 갈 수 있고, 동물한테서 도망칠 수도 있거든.
@@ -62,7 +62,7 @@ header:
 
 ## 추천 순서 한눈에
 
-![잠든 용 옆에서 알을 훔치는 장면](https://tr.rbxcdn.com/180DAY-7dd435aafd4a769f634a333a47f99735/768/432/Image/Png/noFilter)
+![잠든 용 옆에서 알을 훔치는 장면](/assets/images/posts/steal-an-egg-beginner-guide/7dd435aafd4a.jpg)
 *이미지: 로블록스 'Steal An Egg' 공식 썸네일*
 
 1. 숲에서 알 몇 개 훔쳐서 펫 만들기

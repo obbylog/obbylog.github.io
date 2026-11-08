@@ -4,12 +4,12 @@ description: "로블록스 동접 4위 Throw Food For Animals. 먹이 던져서 
 categories: [game]
 tags: [Throw Food For Animals, 동물 먹이 던지기, 로블록스 공략, 로블록스 인기게임, 타이쿤]
 header:
-  teaser: "https://tr.rbxcdn.com/180DAY-e8b4deada30535db18163fe79a016492/768/432/Image/Png/noFilter"
+  teaser: "/assets/images/posts/throw-food-for-animals-beginner-guide/e8b4deada305.jpg"
 ---
 
 **Throw Food For Animals**는 먹이를 멀리 던져서 동물을 꼬시고, 그 동물을 내 땅에 둬서 돈 버는 로블록스 게임이야. 9월 18일에 나온 신작인데, 11월 7일 집계 기준 동시접속 약 35만 명으로 로블록스 전체 4위까지 올라왔어.
 
-![먹이를 던져 피닉스를 부르는 장면](https://tr.rbxcdn.com/180DAY-e8b4deada30535db18163fe79a016492/768/432/Image/Png/noFilter)
+![먹이를 던져 피닉스를 부르는 장면](/assets/images/posts/throw-food-for-animals-beginner-guide/e8b4deada305.jpg)
 *이미지: 로블록스 'Throw Food For Animals' 공식 썸네일*
 
 규칙은 단순한데, 처음엔 뭘 먼저 올려야 할지 헷갈려. 이 순서대로 하면 금방 감 와.
@@ -28,7 +28,7 @@ header:
 
 ## 처음엔 당근부터
 
-![당근을 던지자 정체불명의 용이 나타나는 장면](https://tr.rbxcdn.com/180DAY-48a0396539704dce67aae483555367bd/768/432/Image/Png/noFilter)
+![당근을 던지자 정체불명의 용이 나타나는 장면](/assets/images/posts/throw-food-for-animals-beginner-guide/48a039653970.jpg)
 *이미지: 로블록스 'Throw Food For Animals' 공식 썸네일*
 
 시작하면 공짜 **당근**을 줘. 처음엔 개구리나 토끼 같은 흔한 동물이 나오는데, 이걸로 돈 모으는 게 시작이야.
@@ -39,7 +39,7 @@ header:
 
 ## 제일 중요한 건 던지는 힘
 
-![긴 길을 따라 용에게 햄버거를 던지는 장면](https://tr.rbxcdn.com/180DAY-b21dd5a0e41343c1698035f34a76e1c0/768/432/Image/Png/noFilter)
+![긴 길을 따라 용에게 햄버거를 던지는 장면](/assets/images/posts/throw-food-for-animals-beginner-guide/b21dd5a0e413.jpg)
 *이미지: 로블록스 'Throw Food For Animals' 공식 썸네일*
 
 이 게임은 **얼마나 멀리 던지냐가 곧 실력**이야. 먹이가 비싸도 거리가 안 나오면 앞쪽에서 떨어져서 약한 동물만 와.
@@ -52,7 +52,7 @@ header:
 
 ## 행운은 멀리 던질수록 올라가
 
-![바나나 앞에 나타난 무지개색 고릴라](https://tr.rbxcdn.com/180DAY-25e29f9ae69936e7bda4903e197f689e/768/432/Image/Png/noFilter)
+![바나나 앞에 나타난 무지개색 고릴라](/assets/images/posts/throw-food-for-animals-beginner-guide/25e29f9ae699.jpg)
 *이미지: 로블록스 'Throw Food For Animals' 공식 썸네일*
 
 희귀한 동물이 나올 확률은 **먹이가 날아간 거리**에 따라 정해져. 각 구역의 길을 앞·중간·뒤로 나누면, 제일 희귀한 동물은 **맨 뒤쪽**에 떨어졌을 때만 나와.
