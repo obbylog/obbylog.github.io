@@ -4,7 +4,7 @@ description: "알을 들고 튀는 게임이랑 알을 깨고 튀는 게임. 둘
 categories: [game]
 tags: [스틸언에그, 브레이크 앤 스틸 언 에그, Steal An Egg, Break and Steal an Egg, 로블록스 비교]
 header:
-  teaser: "https://tr.rbxcdn.com/180DAY-729c0316fa4d67dfb92356ab4906ca46/768/432/Image/Png/noFilter"
+  teaser: "/assets/images/posts/steal-an-egg-vs-break-and-steal-an-egg/729c0316fa4d.jpg"
 ---
 
 둘은 이름만 비슷하고 **만든 곳도, 노는 방식도 다른 게임**이야. **스틸 언 에그**(Steal An Egg)는 동물이 품고 있는 알을 통째로 들고 도망쳐서 집에서 부화시키고, **브레이크 앤 스틸 언 에그**(Break and Steal an Egg)는 그 자리에서 곡괭이로 알을 깨고 나온 동물을 들고 도망쳐. 한 줄로 줄이면 "알을 들고 오냐, 깨고 오냐"의 차이야.
@@ -27,7 +27,7 @@ header:
 
 ## 결정적 차이: 들고 오냐, 깨고 오냐
 
-![곡괭이로 용암 알을 깨려는 장면과 놀란 닭](https://tr.rbxcdn.com/180DAY-729c0316fa4d67dfb92356ab4906ca46/768/432/Image/Png/noFilter)
+![곡괭이로 용암 알을 깨려는 장면과 놀란 닭](/assets/images/posts/steal-an-egg-vs-break-and-steal-an-egg/729c0316fa4d.jpg)
 *이미지: 로블록스 'Break and Steal an Egg' 공식 썸네일*
 
 **스틸 언 에그**는 알을 줍는 순간부터 추격전이 시작돼. 알을 집에 가져다 놓고 기다리면 펫이 나오고, 그 펫이 돈을 벌어. 그래서 알을 집기 전에 도망칠 길을 보는 게 제일 중요해.
@@ -49,7 +49,7 @@ header:
 
 ## 다른 사람이랑 부딪히는 정도
 
-![우주 알을 든 플레이어와 머리 셋 달린 용](https://tr.rbxcdn.com/180DAY-80fa555d44488434d843732f067b59a3/768/432/Image/Png/noFilter)
+![우주 알을 든 플레이어와 머리 셋 달린 용](/assets/images/posts/steal-an-egg-vs-break-and-steal-an-egg/80fa555d4448.jpg)
 *이미지: 로블록스 'Break and Steal an Egg' 공식 썸네일*
 
 **스틸 언 에그**는 같은 서버 사람들이 같은 알을 노려. 알을 들고 뛰는 중에 다른 플레이어가 부딪혀서 넘어뜨리면 알을 떨어뜨릴 수 있고, 곰덫이나 박쥐 같은 아이템도 쓰여. 좋은 알이 뜨면 꽤 정신없어.
