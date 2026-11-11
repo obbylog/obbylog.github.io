@@ -4,9 +4,13 @@ description: "로블록스 채팅은 연령 확인 후 연령대별로 열려요
 date: 2026-11-09 08:00:00 +0900
 categories: [parent]
 tags: [로블록스 부모 가이드, 로블록스 채팅 설정, 로블록스 사기, 자녀 보호, 로블록스 연령 확인]
+header:
+  teaser: "/assets/images/posts/roblox-chat-settings-scam-guide/chat-overview.jpg"
 ---
-
 로블록스 채팅은 이제 **연령 확인을 마친 사용자만** 쓸 수 있고, 비슷한 나이대끼리만 대화하도록 묶여 있어요. 부모님은 자녀 보호 설정에서 채팅을 종류별로 끄거나 '신뢰하는 친구'로만 좁힐 수 있어요. 다만 설정만으로 막기 어려운 게 사기예요. 아이들이 당하는 사기는 대부분 **공식 기능 밖에서 거래하거나, 로그인 정보를 넘기는 순간** 시작돼요.
+
+![나이별 로블록스 채팅 추천 설정: 9세 미만, 9~12세, 13~15세](/assets/images/posts/roblox-chat-settings-scam-guide/chat-overview.jpg)
+*이미지: 옵비로그*
 
 ## 요즘 로블록스 채팅은 이렇게 달라졌어요
 
