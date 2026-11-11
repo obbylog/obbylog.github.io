@@ -3,9 +3,13 @@ title: "로블록스 자녀 결제 한도 설정하는 법: 로벅스 월 한도
 description: "로블록스에서 자녀가 로벅스를 너무 많이 쓰지 않게 월 지출 한도를 정하는 방법을 단계별로 정리했어요. 알림 설정과 자주 묻는 질문까지 함께 확인하세요."
 categories: [parent]
 tags: [로블록스 부모 가이드, 로블록스 결제 한도, 로벅스 설정, 자녀 보호, 로블록스 자녀보호]
+header:
+  teaser: "/assets/images/posts/roblox-spending-limit-parent-guide/spend-overview.jpg"
 ---
-
 로블록스에서 자녀 결제를 막으려면 **자녀 계정을 부모 계정과 연결한 뒤 '지출 제한'에서 월 한도를 정하면** 돼요. 한도를 다 쓰면 그달에는 자녀가 더 이상 결제할 수 없어요.
+
+![로벅스 월 지출 한도 설정 순서: 설정·자녀 보호, 부모 계정 연결, 지출 제한, 월별 한도와 알림 저장](/assets/images/posts/roblox-spending-limit-parent-guide/spend-overview.jpg)
+*이미지: 옵비로그*
 
 ## 왜 한도를 정해두는 게 좋을까요?
 
