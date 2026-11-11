@@ -5,12 +5,12 @@ date: 2026-11-12 08:00:00 +0900
 categories: [update]
 tags: [머더 미스터리 2, MM2, MM2 할로윈, 로블록스 이벤트, 엠버사이드]
 header:
-  teaser: "https://tr.rbxcdn.com/180DAY-f483597f5ce44b2617413c11c7425802/768/432/Image/Png/noFilter"
+  teaser: "/assets/images/posts/mm2-halloween-2026-deadline/f483597f5ce4.jpg"
 ---
 
 **머더 미스터리 2**(Murder Mystery 2, MM2) 할로윈 이벤트는 **한국 시간 11월 17일(화) 새벽 3시**에 끝나. 이벤트 동안 모은 캔디는 끝나면 그냥 사라지니까, 그 전에 배틀패스부터 채우고 남는 걸 상자에 쓰는 게 기본이야. 오늘(11월 12일) 아침 기준으로 남은 시간은 4일 하고 19시간쯤이야.
 
-![할로윈 분위기로 꾸민 MM2 유령의 집 맵](https://tr.rbxcdn.com/180DAY-f483597f5ce44b2617413c11c7425802/768/432/Image/Png/noFilter)
+![할로윈 분위기로 꾸민 MM2 유령의 집 맵](/assets/images/posts/mm2-halloween-2026-deadline/f483597f5ce4.jpg)
 *이미지: 로블록스 'Murder Mystery 2' 공식 썸네일*
 
 요즘 MM2 동접이 확 올라온 것도 이 이벤트 막바지라서야. 지난 순위 글에서 다른 게임들이 다 줄어든 날 MM2만 30% 넘게 늘었는데, 마감 전에 몰리는 사람이 많다는 뜻이지.
