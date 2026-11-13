@@ -5,12 +5,12 @@ date: 2026-11-14 08:00:00 +0900
 categories: [game]
 tags: [피시 잇, Fish It, 로블록스 낚시, 로블록스 공략, 피쉬]
 header:
-  teaser: "https://tr.rbxcdn.com/180DAY-15ff0b1321b4250ebc7afd19f54dddc1/768/432/Image/Png/noFilter"
+  teaser: "/assets/images/posts/fish-it-beginner-guide/15ff0b1321b4.jpg"
 ---
 
 **피시 잇**(Fish It!)은 물고기를 낚아서 팔고, 그 돈으로 더 좋은 낚싯대랑 미끼를 사서 더 희귀한 물고기를 노리는 로블록스 낚시 게임이야. 처음 하면 **코하나 화산에서 공짜로 주는 용암 낚싯대**부터 받고, 돈 모아서 낚싯대를 한 단계씩 바꾸는 게 제일 빨라. 11월 13일 새벽 기준 PC 동접으로 로블록스 13위까지 올라왔고, 2024년 10월에 나온 뒤로 누적 방문이 47억 회가 넘어. 한 서버에 최대 20명이 같이 낚시해.
 
-![부두에서 낚싯대로 푸른 희귀 물고기를 낚아 올리는 장면](https://tr.rbxcdn.com/180DAY-15ff0b1321b4250ebc7afd19f54dddc1/768/432/Image/Png/noFilter)
+![부두에서 낚싯대로 푸른 희귀 물고기를 낚아 올리는 장면](/assets/images/posts/fish-it-beginner-guide/15ff0b1321b4.jpg)
 *이미지: 로블록스 'Fish It!' 공식 썸네일*
 
 ## 피쉬(Fisch)랑 헷갈리지 마
@@ -52,7 +52,7 @@ header:
 
 해즈맷 낚싯대를 파는 떠돌이 상인은 항상 그 물건을 들고 오는 게 아니야. 돈을 모아뒀다가 상인이 올 때 확인해. 고스트핀 낚싯대는 코인이 아니라 퀘스트로 얻는 거라 시간이 꽤 걸려. 돈 모으는 동안 퀘스트를 미리 조금씩 진행해두면 나중에 편해.
 
-![부두에서 머리 여러 개 달린 용을 낚는 장면](https://tr.rbxcdn.com/180DAY-d612acdb03ba6e23e0c637328e22efc1/768/432/Image/Png/noFilter)
+![부두에서 머리 여러 개 달린 용을 낚는 장면](/assets/images/posts/fish-it-beginner-guide/d612acdb03ba.jpg)
 *이미지: 로블록스 'Fish It!' 공식 썸네일*
 
 ## 미끼도 같이 바꿔야 해
