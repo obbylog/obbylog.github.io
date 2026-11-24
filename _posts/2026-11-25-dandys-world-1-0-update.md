@@ -4,12 +4,12 @@ description: "댄디스 월드가 한국 시간 11월 21일 새벽 5시에 1.0�
 categories: [update]
 tags: [댄디스 월드, Dandy's World, 로블록스 업데이트, 댄디스 월드 1.0, 로블록스 공포 게임]
 header:
-  teaser: "https://tr.rbxcdn.com/180DAY-511e5c6e680e60d7b068cdff1b94a4d8/768/432/Image/Png/noFilter"
+  teaser: "/assets/images/posts/dandys-world-1-0-update/511e5c6e680e.jpg"
 ---
 
 **댄디스 월드**(Dandy's World)가 **한국 시간 11월 21일(토) 새벽 5시**에 1.0 업데이트를 내면서 알파 단계를 끝내고 정식판이 됐어. 제일 큰 변화는 기존 생존 모드보다 어려운 **새 모드**가 생긴 거고, 거기서 쓰는 **카드 시스템**이랑 새 화폐 **앰브로시아**(Ambrosia)가 같이 들어왔어. 업데이트 뒤로 동접도 확 뛰어서, 일주일 전 10위였던 게 7위까지 올라왔어.
 
-![어두운 복도에서 꽃 모양 캐릭터가 검은 괴물에게 쫓기는 장면](https://tr.rbxcdn.com/180DAY-511e5c6e680e60d7b068cdff1b94a4d8/768/432/Image/Png/noFilter)
+![어두운 복도에서 꽃 모양 캐릭터가 검은 괴물에게 쫓기는 장면](/assets/images/posts/dandys-world-1-0-update/511e5c6e680e.jpg)
 *이미지: 로블록스 'Dandy's World' 공식 썸네일*
 
 ## 댄디스 월드가 어떤 게임인데?
@@ -42,7 +42,7 @@ BlushCrunch Studio라는 팀이 만들었고, 2024년 1월에 처음 나와서 �
 
 진행자 캐릭터 이름은 **데사**(Dessa)로 알려져 있어. 다만 이 부분은 출처가 많지 않아서, 직접 해보면서 확인해봐.
 
-![철창 안에 갇힌 괴물 옆에서 두 툰이 놀란 표정을 짓는 장면](https://tr.rbxcdn.com/180DAY-0aece36af00dcf3fdaaaddbbcbb1926e/768/432/Image/Png/noFilter)
+![철창 안에 갇힌 괴물 옆에서 두 툰이 놀란 표정을 짓는 장면](/assets/images/posts/dandys-world-1-0-update/0aece36af00d.jpg)
 *이미지: 로블록스 'Dandy's World' 공식 썸네일*
 
 ## 1.0 보고 처음 들어가는 사람이라면
