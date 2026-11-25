@@ -49,3 +49,16 @@
 }
 </script>
 {% endif %}
+
+{% if page.url == "/" %}
+<!-- 사이트 이름 (구글 검색 결과에 'GitHub' 대신 '옵비로그'로 나오도록) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "옵비로그",
+  "alternateName": ["Obbylog", "obbylog.github.io"],
+  "url": "{{ '/' | absolute_url }}"
+}
+</script>
+{% endif %}
