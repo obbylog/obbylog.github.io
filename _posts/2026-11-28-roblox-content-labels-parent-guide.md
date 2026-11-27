@@ -67,5 +67,5 @@ header:
 ## 참고한 곳
 - [Content maturity and compliance - 로블록스 크리에이터 문서](https://create.roblox.com/docs/production/promotion/experience-guidelines)
 - [자녀 보호 기능 안내 - 로블록스 공식 (한국어)](https://about.roblox.com/ko/parental-controls)
-- [Hyper Realistic Ragdoll guide - Allthings.how](https://allthings.how/?p=356463)
+- [순위 12위 게임 소개 - Allthings.how](https://allthings.how/?p=356463)
 - [Roblox Charts - Endgame Tools](https://endgametools.com/en/roblox/charts)
